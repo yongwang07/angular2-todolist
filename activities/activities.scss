@@ -1,0 +1,9 @@
+@import "../../css/main.scss";
+
+.activities {
+  display: block;
+
+  &__l-container {
+    margin-top: $space-xl;
+  }
+}
